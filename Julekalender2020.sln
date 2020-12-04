@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Julekalender2020", "Julekalender2020\Julekalender2020.csproj", "{E77B9B8D-364B-4031-ACEB-2271F9EB5E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77B9B8D-364B-4031-ACEB-2271F9EB5E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77B9B8D-364B-4031-ACEB-2271F9EB5E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77B9B8D-364B-4031-ACEB-2271F9EB5E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77B9B8D-364B-4031-ACEB-2271F9EB5E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF205FF3-DEA3-499F-90E7-AA342D82E860}
+	EndGlobalSection
+EndGlobal
